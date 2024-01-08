@@ -1,5 +1,5 @@
 #		The name of the executable file you want to build
-EXECUTABLE	= lab3
+EXECUTABLE	= game
 
 #		Source (.cpp) files you want to compile
 #		(NOTE: Don't include header (.h) files, or any source (.cpp) files
